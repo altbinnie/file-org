@@ -23,7 +23,7 @@ def organize_files(src_folder, dest_folder):
     print("Organizacao completa")
 
 # teste
-src_directory = "C:\\Users\\User\\Downloads"
+src_directory = "C:\\Users\\User\\documents\\EXAMPLE"
 # i want the folders to be in the same directories, so:
 dest_directory = src_directory
 
